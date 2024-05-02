@@ -1,3 +1,6 @@
 [submodule "Blender/Tutorials/BlenderBros-Hard-Surface-Modeling-Jumpstart"]
 	path = Blender/Tutorials/BlenderBros-Hard-Surface-Modeling-Jumpstart
 	url = https://github.com/mdotpali/Blender-Hard-Surface-Modeling-Jumpstart
+[submodule "Programming/C#-Unity/CalPad"]
+	path = "Programming/C#-Unity/CalPad"
+	url = https://github.com/mdotpali/CalPad.git
