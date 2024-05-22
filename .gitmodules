@@ -7,3 +7,6 @@
 [submodule "Portfolio/Interactive-Operation-Room"]
 	path = Portfolio/Interactive-Operation-Room
 	url = https://github.com/mdotpali/Interactive-Operation-Room.git
+[submodule "UE5/Tutorials/UE5ForUnityDevs"]
+	path = UE5/Tutorials/UE5ForUnityDevs
+	url = https://github.com/mdotpali/UE5ForUnityDevs
